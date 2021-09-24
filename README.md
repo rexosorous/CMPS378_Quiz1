@@ -7,7 +7,7 @@ This program calculates the cost of a gas station purchase depending on the grad
 This program is intended to be integrated into POS (point of sale) machines in gas stations.
 
 # Features
-Takes into account gasoline grade as well as the price of an optional car was which costs **$12**.
+Takes into account gasoline grade as well as the price of an optional **car wash which costs $12**.
 
 # How to Run
 Compile `main.cs` using a C# compiler (preferrably Visual Studio's compiler). I specificually used `Microsoft (R) Visual C# Compiler version 2.6.0.62329`.
